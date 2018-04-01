@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
+  <metadata>
+    <id>ghb0t</id>
+    <version>0.4.0</version>
+    <packageSourceUrl>https://github.com/giggio/genuinetools</packageSourceUrl>
+    <owners>giggio</owners>
+    <title>ghb0t</title>
+    <authors>genuinetools</authors>
+    <projectUrl>https://gallant-hopper-2d9209.netlify.com/</projectUrl>
+    <iconUrl>https://avatars3.githubusercontent.com/u/37218338</iconUrl>
+    <copyright>Copyright (c) 2018 The Genuinetools Authors</copyright>
+    <licenseUrl>https://github.com/genuinetools/ghb0t/blob/master/LICENSE</licenseUrl>
+    <projectSourceUrl>https://github.com/genuinetools/ghb0t</projectSourceUrl>
+    <bugTrackerUrl>https://github.com/genuinetools/ghb0t/issues</bugTrackerUrl>
+    <tags>ghb0t genuinetools</tags>
+    <summary>A GitHub Bot to automatically delete your fork's branches after a pull request has been merged.</summary>
+    <description>A GitHub Bot to automatically delete your fork's branches after a pull request has been merged.</description>
+  </metadata>
+  <files>
+    <file src="tools\**" target="tools" />
+  </files>
+</package>

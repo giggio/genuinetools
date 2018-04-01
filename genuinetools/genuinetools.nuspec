@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
+  <metadata>
+    <id>genuinetools</id>
+    <version>0.0.1</version>
+    <packageSourceUrl>https://github.com/giggio/genuinetools</packageSourceUrl>
+    <owners>giggio</owners>
+    <title>genuinetools</title>
+    <authors>genuinetools</authors>
+    <projectUrl>https://gallant-hopper-2d9209.netlify.com/</projectUrl>
+    <iconUrl>https://avatars3.githubusercontent.com/u/37218338</iconUrl>
+    <copyright>Copyright (c) 2018 The Genuinetools Authors</copyright>
+    <projectSourceUrl>https://github.com/genuinetools</projectSourceUrl>
+    <tags>genuinetools</tags>
+    <summary>We are the home of quality software with a focus on simplicity, usability, security and minimalism.</summary>
+    <description>Our projects abide by the following values:
+* Genuine solutions in a non-shitty way.
+* Simplicity.
+* Minimal dependencies.
+* Installable by a single binary -OR- a single binary in a container.
+* Easy to install.
+* Minimal design.
+* Clean, readable, auditable code.
+  * Made by hackers with love that were just having fun.</description>
+    <dependencies>
+      <dependency id="ghb0t" version="0.4.0" />
+    </dependencies>
+  </metadata>
+</package>
